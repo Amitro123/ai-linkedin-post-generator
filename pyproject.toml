@@ -1,0 +1,13 @@
+[project]
+name = "agentsproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai==0.114.0",
+    "crewai-tools>=0.42.0",
+    "python-dotenv>=1.1.1",
+    "pyyaml>=6.0.3",
+    "streamlit>=1.50.0",
+]
