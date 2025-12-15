@@ -1,5 +1,8 @@
 # 🚀 AI-Powered LinkedIn Post Generator
 
+![Architecture](./assets/architecture_diagram.png)
+
+
 > A sophisticated multi-agent system that generates viral LinkedIn posts in Hebrew using CrewAI, OpenAI GPT-4, and Reflex UI
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
